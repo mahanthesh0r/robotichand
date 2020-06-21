@@ -1,5 +1,5 @@
 # robotichand
-This is a 3D printed Prosthetic Robotic Hand. Which can be controlled by the muscle movements of the hand
+This is a 3D printed Prosthetic Hand. Which can be controlled by the muscle movements of the hand using emg sensor.
 
 # DEMO 
 
